@@ -3,7 +3,7 @@
 const Account = () => {
     return (
         <div>
-            
+            shopping account
         </div>
     );
 };

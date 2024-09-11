@@ -3,7 +3,7 @@
 const Checkout = () => {
     return (
         <div>
-            
+            shopping checkout
         </div>
     );
 };

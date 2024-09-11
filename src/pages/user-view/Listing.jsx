@@ -2,7 +2,7 @@
 const Listing = () => {
     return (
         <div>
-            
+            shopping list
         </div>
     );
 };
