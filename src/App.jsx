@@ -25,7 +25,7 @@ function App() {
   
       <div className="flex flex-col overflow-hidden bg-white">
 
-        {/*<h1>navber</h1> */}
+        <h1>navber</h1>
 
         <Routes>
                 {/* auth routes */}
