@@ -15,6 +15,7 @@ import Listing from "./pages/user-view/Listing";
 import Home from "./pages/user-view/Home";
 import CheckAuth from "./components/common/CheckAuth";
 import UnAuthPage from "./pages/unauth-page/UnAuthPage";
+import PostView from "./components/user-view/post-view";
 
 
 function App() {
@@ -26,6 +27,7 @@ function App() {
       <div className="flex flex-col overflow-hidden bg-white">
 
         <h1>navber</h1>
+        <PostView />
 
         <Routes>
                 {/* auth routes */}
